@@ -6,7 +6,7 @@ Free RDP Only for learning!
 Don't use for mining or hacking!!!
 
 Please support my channel:
-- https://www.youtube.com/c/AkaShinobi/videos
+- https://www.youtube.com/c/AkaShinobi
 
 My Telegram contact
 - https://bit.ly/2Z1yric
