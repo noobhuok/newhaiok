@@ -1,4 +1,4 @@
-# Windows Server 2019 Github with RDP Access (ngrok US)
+# Windows Server 2019 Github-Ngrok with RDP Access [Region US/EU/AU]
 Free RDP Only for learning!
 - Visit  https://dashboard.ngrok.com to copy NGROK_AUTH_TOKEN
 - Onpage Github: Settings > Secrets > New repository secret
